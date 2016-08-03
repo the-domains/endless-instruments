@@ -1,0 +1,14 @@
+layout_spectrum: 0.47450029919855297
+typography_spectrum: 0.12958438764326274
+color:
+  brandStrength: 0.41533848410472274
+  lightness: 0.41714520985260606
+  saturation: 0.23457284597679973
+  rhythmicContrast: 0.1974079073406756
+  brandColors:
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
+name: endless instruments
