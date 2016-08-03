@@ -1,3 +1,4 @@
+layout_spectrum: 0.47450029919855297
 typography_spectrum: 0.12958438764326274
 color:
   brandStrength: 0.41533848410472274
@@ -10,7 +11,4 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.47450029919855297
 name: endless instruments
-title: The Fact of The Matter
-description: the joy is in the journey
