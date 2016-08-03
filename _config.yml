@@ -6,9 +6,10 @@ color:
   saturation: 0.23457284597679973
   rhythmicContrast: 0.1974079073406756
   brandColors:
-    - '#A7304F'
-    - '#F46D8D'
-    - '#F39EB5'
-    - '#081028'
-    - '#F0CEB7'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: endless instruments
+description: the joy is in the journey
